@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "57c0a942c09914cf85ccb632",
+  "owner": "yxqcax",
+  "repo": "page-c75f51de280101df02ea8884",
+  "title": "V2Tun",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c75f51de280101df02ea8884",
+      "a": "V2Tun",
+      "b": "机场榜单Top1",
+      "entity": "V2Tun",
+      "brand": "V2Tun",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ba849da6e1d42938f1618ba3408e673685f2ede3d012cace57d69327a2848ac5",
+      "content": {
+        "primary_entity": "V2Tun",
+        "keyword1": "V2Tun",
+        "keyword2": "机场榜单Top1",
+        "content": {
+          "AI_CLIENTS_INTRO": "在 Clash、Shadowrocket、v2rayN、Quantumult X 等客户端中选择匹配设备的一方即可。",
+          "AI_CLIENTS_TITLE": "按设备挑客户端",
+          "AI_CLOSING_TEXT": "选好设备与套餐，导入订阅就能开始。",
+          "AI_CLOSING_TITLE": "开始配置 V2Tun",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置和套餐对比展开，基础版适合单人日常，旗舰版增加 IPLC 专线与更多在线设备，团队版面向多人共享，年付方案能降低月均支出。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期三个角度挑选 V2Tun 套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版最多 20 台同时在线。",
+          "AI_FEATURE_TEXT_2": "月流量从 100GB 到 1000GB 递进，旗舰版含 IPLC 游戏加速优化。",
+          "AI_FEATURE_TEXT_3": "年付比月付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量与线路",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "按选择服务、查看适配要求、配置订阅的顺序完成设置。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "V2Tun 提供基础版、旗舰版与团队版三档套餐，覆盖 100GB 至 1000GB 月流量与 3 至 20 台设备，年付方案更适合长期使用。",
+          "AI_HERO_SUBTITLE": "多档套餐覆盖不同设备规模",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线",
+          "AI_HIGHLIGHT_3": "年付方案降低月均成本",
+          "AI_PLANS_INTRO": "基础版 ¥15/月含 100GB 与 3 台设备；旗舰版 ¥35/月含 300GB、5 台设备与 IPLC 专线；团队版 ¥85/月含 1000GB 与 20 台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的在线设备数、流量额度与线路说明，确认满足使用场景。",
+          "AI_STEP_TEXT_3": "按照所用客户端的订阅导入步骤填写地址与参数，完成后即可连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "V2Tun 套餐快速上手",
+          "AI_FAQ_ANSWER_1": "基础版适合单人轻度使用，每月 100GB 流量和 3 台设备；旗舰版提供 300GB 和 5 台设备，并带 IPLC 专线；团队版支持 20 台设备和 1000GB 流量，适合多人共享。",
+          "AI_FAQ_ANSWER_2": "V2Tun 在 Windows、macOS、Android 和 iOS 上均提供配置文档。不同客户端导入订阅后即可使用，具体步骤可参考各客户端的订阅导入说明。",
+          "AI_FAQ_ANSWER_3": "套餐以月付和年付两种周期计费，年付相当于用十个月的价格获得十二个月服务。团队版年付为 850 元，旗舰版年付为 350 元，基础版年付为 150 元。",
+          "AI_FAQ_ANSWER_4": "可以。同一订阅可在多台设备上使用，但同时在线的设备数量受套餐限制。基础版最多 3 台，旗舰版 5 台，团队版 20 台，超出限制时部分设备会被挤下线。",
+          "AI_FAQ_ANSWER_5": "选择月付可以先体验线路速度和稳定性，确认满足日常使用后再升级年付。高频使用者或需要流媒体和游戏加速的用户，直接选旗舰版年付更合适。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "V2Tun 支持哪些客户端和设备？",
+          "AI_FAQ_QUESTION_3": "套餐的计费周期怎么算？",
+          "AI_FAQ_QUESTION_4": "一个订阅可以在多台设备上同时使用吗？",
+          "AI_FAQ_QUESTION_5": "我应该选择月付还是年付？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "467aaa95da261255cae282bf0c293dc0e5f9fd71e39fc12a5be46cc1606aa76d",
+    "sitemap.xml": "c8b9a4b87cfb8da01ae3b58b94f3b49534650c5cf3fc0490c8596014cf0b318f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "b81fc8361676853a0b8d751ac7408de273c947cc0d9f959a0ec78e9e2dc04e34"
+}
